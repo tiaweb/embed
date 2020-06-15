@@ -1,0 +1,80 @@
+Uri: https://embedresponsively.com/
+File Name: D:\Cyoteek\embedresponsively.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,700
+File Name: D:\Cyoteek\embedresponsively.com\css.css
+Content Type: text/css
+
+Uri: https://embedresponsively.com/css/bootstrap3.min.css
+File Name: D:\Cyoteek\embedresponsively.com\css\bootstrap3.min.css
+Content Type: text/css
+
+Uri: https://embedresponsively.com/css/animate.css
+File Name: D:\Cyoteek\embedresponsively.com\css\animate.css
+Content Type: text/css
+
+Uri: https://github.com/jeffehobbs/embedresponsively
+File Name: D:\Cyoteek\embedresponsively.com\jeffehobbs\embedresponsively.html
+Content Type: text/html
+
+Uri: https://embedresponsively.com/js/jquery.min.js
+File Name: D:\Cyoteek\embedresponsively.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://embedresponsively.com/js/bootstrap3.min.js
+File Name: D:\Cyoteek\embedresponsively.com\js\bootstrap3.min.js
+Content Type: application/javascript
+
+Uri: https://embedresponsively.com/js/uri.js
+File Name: D:\Cyoteek\embedresponsively.com\js\uri.js
+Content Type: application/javascript
+
+Uri: https://embedresponsively.com/fonts/glyphicons-halflings-regular.eot
+File Name: D:\Cyoteek\embedresponsively.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://embedresponsively.com/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\Cyoteek\embedresponsively.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://embedresponsively.com/fonts/glyphicons-halflings-regular.woff
+File Name: D:\Cyoteek\embedresponsively.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://embedresponsively.com/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\Cyoteek\embedresponsively.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://embedresponsively.com/fonts/glyphicons-halflings-regular.svg
+File Name: D:\Cyoteek\embedresponsively.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.scribd.com/
+File Name: D:\Cyoteek\embedresponsively.com\index-1.htm
+Content Type: text/html
+
+Uri: https://soundcloud.com/
+File Name: D:\Cyoteek\embedresponsively.com\index-2.htm
+Content Type: text/html
+
+Uri: https://storify.com/
+File Name: D:\Cyoteek\embedresponsively.com\index-3.htm
+Content Type: text/html
+
+Uri: https://twitter.com/
+File Name: D:\Cyoteek\embedresponsively.com\index-4.htm
+Content Type: text/html
+
+Uri: https://github.com/login?return_to=https:%2F%2Fgithub.com%2Fjeffehobbs%2Fembedresponsively%2Fissues%2Fnew
+File Name: D:\Cyoteek\embedresponsively.com\login.html
+Content Type: text/html
+
+Uri: https://closed.loopia.com/
+File Name: D:\Cyoteek\embedresponsively.com\index-5.htm
+Content Type: text/html
+
+Uri: https://twitter.com/jeffehobbs
+File Name: D:\Cyoteek\embedresponsively.com\jeffehobbs.html
+Content Type: text/html
+
